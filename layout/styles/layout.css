@@ -164,7 +164,7 @@ nav ul, nav ol{margin:0; padding:0; list-style:none;}
 
 #mainav form{display:none; margin:0; padding:0;}
 #mainav form select, #mainav form select option{display:block; cursor:pointer; outline:none;}
-#mainav form select{width:100%; padding:5px; border:1px solid;}
+#mainav form select{width:100%; padding:5px; border:1px solid; margin-top: 100px;} /* Navigation Menu */
 #mainav form select option{margin:5px; padding:0; border:none;}
 
 /* Breadcrumb */
