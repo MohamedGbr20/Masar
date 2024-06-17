@@ -4,6 +4,10 @@
 @import url("custom.flexslider.css");
 @import url("framework.css");
 
+.arabic{
+	text-align: right;
+}
+
 /* Rows
 --------------------------------------------------------------------------------------------------------------- */
 .row1, .row1 a{}
